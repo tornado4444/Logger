@@ -26,7 +26,7 @@ std::string to_String(Logger level, bool use_colors) {
 }
 ```
 ## It's the main part for initialize logger
-```
+```c++
 Logger.hpp
 struct Format {
     // Gets current time in HH:MM:SS format
@@ -49,3 +49,6 @@ enum Logger {
     ERROR       // Error events that might still allow the program to continue
 };
 ```
+# EXAMPLE
+
+[image]()
