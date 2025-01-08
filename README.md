@@ -51,4 +51,4 @@ enum Logger {
 ```
 # EXAMPLE
 
-[image](https://github.com/tornado4444/Logger/blob/main/Logger/x64/Debug/LOGGER.tlog/LOGGER.png)
+[image](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
