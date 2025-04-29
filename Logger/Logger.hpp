@@ -17,7 +17,7 @@
 #pragma once
 #include <string>
 #include <array> // Аnalogue of an array
-#include <mutex> // 
+#include <mutex> 
 #include <chrono>
 #include <thread>
 #include <iostream>
